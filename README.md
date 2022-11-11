@@ -1,5 +1,5 @@
 # CyclisticBikeShare
-Process.
+Summary of the data process. 
 Import libraries tidyverse, janitor, lubridate, and ggplot
 Load the data using read.csv
 Combine the data into a single dataframe using rbind
