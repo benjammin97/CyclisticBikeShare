@@ -1,6 +1,4 @@
 # CyclisticBikeShare
-Purpose:
-Identify trends in customer base in order to try to convert more riders to members.
 Process.
 Import libraries tidyverse, janitor, lubridate, and ggplot
 Load the data using read.csv
