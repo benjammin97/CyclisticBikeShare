@@ -8,9 +8,7 @@ The data analyst is to develop various visualizations to identify trends in bicy
 #### Skills:
 ##### R
 * Clean data by removing unnecessary columns and rows.
-* Develop bar graphs and line graphs to generate valuable insights.
-#### Outcomes:
-Based on insights gained by data visualizations, several recommendations were made to increase rider membership based on the data, such as a weekend membership, a one hour membership, and a 3PM-6PM membership.  
+* Develop bar graphs and line graphs to generate valuable insights
 #### Data Process Summary:
 * Import libraries tidyverse, janitor, lubridate, and ggplot  
 * Load the data using read.csv  
@@ -18,3 +16,5 @@ Based on insights gained by data visualizations, several recommendations were ma
 * Remove empty rows and columns and eliminate invalid rows
 * Set up date formatting using lubridate
 * Develop various visualizations using ggplot  
+#### Outcomes:
+Based on insights gained by data visualizations, several recommendations were made to increase rider membership based on the data, such as a weekend membership, a one hour membership, and a 3PM-6PM membership.  
