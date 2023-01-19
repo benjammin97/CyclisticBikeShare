@@ -19,4 +19,5 @@ The data analyst is to develop various visualizations to identify trends in bicy
 #### Outcomes:
 Based on insights gained by data visualizations, several recommendations were made to increase rider membership based on the data, such as a weekend membership, a one hour membership, and a 3PM-6PM membership.  
 [Problem Statement](https://github.com/benjammin97/CyclisticBikeShare/blob/main/problemStatement), [Code](https://github.com/benjammin97/CyclisticBikeShare/blob/main/cyclistic_bike_share.R)  
+<br>
 P.S. The link to the datasets is listed within the code.
